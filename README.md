@@ -1,0 +1,2 @@
+<h1>Cifra de César em Python</h1><hr>
+<h2>Objetivo: </h2></p>A cifra de César é um tipo de cifra de substituição na qual cada letra do texto original é substituída por outra letra que se encontra um número fixo de posições à frente no alfabeto.  cifra de César é um dos exemplos mais antigos e básicos de criptografia, atribuído ao general romano Júlio César, que a teria usado para comunicações militares. A técnica envolve deslocar cada letra do alfabeto por um número fixo de posições, conhecido como a chave de deslocamento.
